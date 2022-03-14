@@ -1,0 +1,1 @@
+damage_dict = {'sword' : 10, 'gun' : 5, 'knife' : 7}
